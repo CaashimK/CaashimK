@@ -1,8 +1,8 @@
 ## Hi there 👋
-###This is my first repository, where I am experimenting with various coding languages and GitHub
+### This is my first repository, where I am experimenting with various coding languages and GitHub
 
-###I'm currently learning SQL
-###Reach me by email at caashimk@gmail.com
+### I'm currently learning SQL
+### Reach me by email at caashimk@gmail.com
 
 
 <!--
