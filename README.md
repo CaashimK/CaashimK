@@ -1,4 +1,9 @@
 ## Hi there 👋
+###This is my first repository, where I am experimenting with various coding languages and GitHub
+
+###I'm currently learning SQL
+###Reach me by email at caashimk@gmail.com
+
 
 <!--
 **CaashimK/CaashimK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
